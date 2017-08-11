@@ -1,9 +1,11 @@
-package com.everythingforward.dormmarket;
+package com.everythingforward.dormmarket.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MarketActivity extends AppCompatActivity {
+import com.everythingforward.dormmarket.R;
+
+public class UserProfileActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
